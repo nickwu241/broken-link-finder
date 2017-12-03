@@ -1,7 +1,7 @@
 # broken-link-finder
 A Python CLI to find broken links in files.
 
-```shell
+```
 $ ./broken_link_finder.py --help
 usage: broken_link_finder.py [-h] [--recursive] file | directory
 
